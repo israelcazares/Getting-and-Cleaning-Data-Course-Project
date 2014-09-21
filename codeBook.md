@@ -10,14 +10,17 @@ Description
 -----------------
 The current features for this dataset (3-axial signals data) comes from the activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) performed with a (Samsung Galaxy SII) using an accelerometer and a gyroscope. All variables contained in tidy_data_set_avg.txt are copied from the original source and they denote the 3-axial signals (X, Y, Z). For each observation we can see the test subject, the activity performed and the 3-axial signals values.
 
-Variables
-----------
+Variables Description
+----------------------
 
 The 3-axial set of variables estimated from the signals are: 
 
 * mean(): Mean value
 * std(): Standard deviation
 
+
+Variables
+---------
 
 * subject
 * activity 
